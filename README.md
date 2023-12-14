@@ -3,30 +3,30 @@ cover: .gitbook/assets/ZCore_Rebranding.png
 coverY: 0
 ---
 
-# ℹ Sobre a ZCore
+# ℹ About ZCore
 
-A ZCore está presente no mercado desde 2015, dedicando-se à construção de inovações derivadas da tecnologia blockchain. Em nosso portfólio, destacam-se as seguintes soluções e avanços tecnológicos:
+ZCore has been present in the market since 2015, dedicating itself to the construction of innovations derived from blockchain technology. In our portfolio, the following solutions and technological advances stand out:
 
-* Coleção NFT (link para o tópico NFT)
+* NFT Collection (link to the NFT topic)
 
-Na coleção "Farm Horse", esta presente os validadores e delegadores do sistema POSDAO, desempenhando um papel crucial na governança da estrutura ZCore. Os "horses" possibilitam aos seus detentores tornarem-se validadores e delegadores na rede ZCore Network, proporcionando ganhos através do stake em ZCR e USDT. Além disso, são responsáveis por participar em votações no ecossistema um exemplo é o campeonato de Artes NFT IA que também obtem partipação nos lucros por mintagem de NFT na plataforma e desfrutar de uma participação exclusiva no Metaverso ZCore City.
+In the "Farm Horse" collection, the validators and delegators of the POSDAO system are present, playing a crucial role in the governance of the ZCore structure. The "horses" allow their holders to become validators and delegators on the ZCore Network, providing earnings through staking in ZCR and USDT. In addition, they are responsible for participating in votes in the ecosystem, an example is the NFT Arts IA championship that also obtains participation in the profits from minting NFT on the platform and enjoying exclusive participation in the ZCore City Metaverse.
 
-* ZCore Wallet(Link para o tópico da Wallet)
+* ZCore Wallet(Link to the Wallet topic)
 
-A carteira descentralizada ZCore oferece um armazenamento seguro para seus investimentos, permitindo o uso do staking dos tokens ZCR, staking FarmHorse NFT, e a integração de DApps, incluindo a inovação ZcoreNFTAI.
+The decentralized ZCore wallet offers secure storage for your investments, allowing the use of staking of ZCR tokens, staking FarmHorse NFT, and the integration of DApps, including the ZcoreNFTAI innovation.
 
-* Solução PIX integrada a ZCore Wallet
+* PIX Solution integrated with ZCore Wallet
 
-O PIX representa uma solução brasileira para pagamentos instantâneos. A ZCore adotou essa inovação para facilitar pagamentos cotidianos, eliminando a necessidade de conversões de moedas ou cadastros extensos em exchanges. Basta ter ZCR na carteira ZCore(link para tópico da carteira) para realizar pagamentos de maneira simples e rápida.
+PIX represents a Brazilian solution for instant payments. ZCore adopted this innovation to facilitate everyday payments, eliminating the need for currency conversions or extensive registrations on exchanges. Just have ZCR in the ZCore wallet(link to wallet topic) to make payments simply and quickly.
 
-* ZcoreNFTAI(link para o tópico ZcoreNFTAI)
+* ZcoreNFTAI(link to the ZcoreNFTAI topic)
 
-Por meio de uma avançada ferramenta de Inteligência Artificial, a ZCore desenvolveu uma experiência singular na criação de imagens. Ao utilizar o prompt IA, é possível obter diversas variações da imagem, participar de concursos de Artes NFT e, com poucos cliques e muita criatividade, a ZCore proporciona essa experiência única para você.
+Through an advanced Artificial Intelligence tool, ZCore has developed a unique experience in image creation. By using the AI prompt, it is possible to obtain various variations of the image, participate in NFT Arts contests and, with a few clicks and a lot of creativity, ZCore provides this unique experience for you.
 
-* Rede EVM ZCore Network (link para o tópico da rede ZCN)
+* ZCore Network EVM Network (link to the ZCN network topic)
 
-Uma rede robusta e altamente eficiente, cujo token nativo é o ZCR, um token deflacionário com um sistema de queima já em pleno funcionamento. Pioneira na introdução de validadores com NFT, a Zcore Network já oferece, desde o seu lançamento, serviços operacionais como PIX, ZcoreNFTAI, além de contar com validadores e delegadores associados a NFTs.
+A robust and highly efficient network, whose native token is ZCR, a deflationary token with a burning system already in full operation. Pioneering in the introduction of validators with NFT, the Zcore Network already offers, since its launch, operational services such as PIX, ZcoreNFTAI, in addition to having validators and delegators associated with NFTs.
 
-* Metaverso ZCore City(link tópico metaverso)
+* Metaverso ZCore City (link to metaverso topic)
 
-A gamificação é uma parte essencial desse ecossistema apaixonado por tecnologia, proporcionando a todos uma experiência mais acessível nas soluções blockchain. O Metaverso Zcore City oferece uma dinâmica de aventuras envolventes em primeira pessoa, permitindo a aquisição de bens e proporcionando aos detentores de FarmHorse acesso a itens exclusivos no jogo.
+Gamification is an essential part of this technology-passionate ecosystem, providing everyone with a more accessible experience in blockchain solutions. The Zcore City Metaverse offers a dynamic of engaging first-person adventures, allowing the acquisition of goods and providing FarmHorse holders with access to exclusive in-game items.
