@@ -4,24 +4,24 @@
 
 > _Initial LP: **BNB**_
 >
-> * _Token Tax: 3**% compra / 11% venda**_
+> * _Token Tax: 3**% purchase / 11% sale**_
 > *   _Swap:_ [_https://pancakeswap.finance/swap?outputCurrency=0x0e8fE6eeD5342Ea9189D9268D088821f0532fb74_](https://pancakeswap.finance/swap?outputCurrency=0x0e8fE6eeD5342Ea9189D9268D088821f0532fb74)\
 >     \
->     **Taxa de Compra de 3%**:
+>     **3% Purchase Fee**:
 >
->     * **Mecanismo**: Refletido em ZCR.
->     * **Destino**: Financiar queimas de tokens, programas de staking e promoções da ZCore.
+>     * **Mechanism**: Reflected in ZCR.
+>     * **Destination**: Fund token burns, staking programs, and ZCore promotions.
 >
->     **Taxa de Venda de 11%**:
+>     **11% Sale Fee**:
 >
->     * **Mecanismo**: Refletido em USDT.
->     * **Distribuição**:
->     * **3%** direcionados ao financiamento do projeto.
->     * **3%** fortalecendo a liquidez.
->     * **5%** distribuídos para:
+>     * **Mechanism**: Reflected in USDT.
+>     * **Distribution**:
+>     * **3%** directed to project financing.
+>     * **3%** strengthening liquidity.
+>     * **5%** distributed to:
 >
->     **1.5%** para detentores de ZCR.
+>     **1.5%** for ZCR holders.
 >
->     **2%** para detentores do NFT Farm Horses.
+>     **2%** for NFT Farm Horses holders.
 >
->     **1.5%** para detentores do NFT ZCN Validators.
+>     **1.5%** for NFT ZCN Validators holders.

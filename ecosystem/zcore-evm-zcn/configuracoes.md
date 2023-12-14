@@ -1,4 +1,4 @@
-# ⚙ Configurações
+# ⚙ Settings
 
 **Network Name:** ZCore Testnet
 
