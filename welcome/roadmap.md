@@ -1,24 +1,24 @@
 # 🛣 Roadmap
 
-O plano estratégico da ZCore está alinhado com nosso compromisso contínuo de aprimorar produtos e serviços. Buscamos não apenas entregar mais do mesmo, mas sim proporcionar avanços significativos no campo tecnológico que realmente fazem a diferença.
+ZCore's strategic plan is aligned with our ongoing commitment to improving products and services. We aim not just to deliver more of the same, but to provide significant advances in the technological field that truly make a difference.
 
 ## Q4 2023
 
-* [ ] Listagem ZCR na Cointiger Exchange
-* [ ] Integração sistema de pagamento PIX
-* [ ] Teste externo da funcionalidade de pagamento PIX
-* [ ] Planejamento e design para implementação do app de Inteligência Artificial WEB3.0
-* [ ] Lançamento oficial ZCore app
-* [ ] Desenvolvimento e implementação de Inteligência Artificial no app.
-* [ ] Preparativos para o lançamento da mainnet (até 30 de novembro).
-* [ ] Desenvolvimento e fortalecimento de parcerias estratégicas.
-* [ ] Monitoramento e suporte para garantir a transição segura no lançamento da rede principal.
-* [ ] Lançamento oficial da mainnet em 30 de novembro.
-* [ ] Avaliação do desempenho de todas as atualizações e lançamentos recentes.
-* [ ] Lançamento ZcoreNFTAI Web3
-* [ ] Lançamento final sistema de pagamento PIX na ZCore Wallet
-* [ ] Coleta de feedback da comunidade e identificação de possíveis melhorias.
-* [ ] Preparativos para o lançamento da mainnet (até fevereiro de 2024).
-* [ ] Preparativos para o roteiro de 2024.
+* [ ] ZCR listing on Cointiger Exchange
+* [ ] Integration of PIX payment system
+* [ ] External testing of PIX payment functionality
+* [ ] Planning and design for the implementation of the WEB3.0 Artificial Intelligence app
+* [ ] Official launch of ZCore app
+* [ ] Development and implementation of Artificial Intelligence in the app.
+* [ ] Preparations for the launch of the mainnet (by November 30).
+* [ ] Development and strengthening of strategic partnerships.
+* [ ] Monitoring and support to ensure a safe transition at the launch of the main network.
+* [ ] Official launch of the mainnet on November 30.
+* [ ] Evaluation of the performance of all recent updates and releases.
+* [ ] Launch of ZcoreNFTAI Web3
+* [ ] Final launch of PIX payment system in ZCore Wallet
+* [ ] Collection of community feedback and identification of possible improvements.
+* [ ] Preparations for the launch of the mainnet (by February 2024).
+* [ ] Preparations for the 2024 roadmap.
 
 ## Q1 2024

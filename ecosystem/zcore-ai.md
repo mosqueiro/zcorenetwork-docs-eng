@@ -1,42 +1,42 @@
 # 🤖 ZCore AI
 
-A grande inovação que estamos orgulhosamente apresentando é a plataforma de inteligência artificial ZCore AI. \
-Esta plataforma descentralizada está prestes a revolucionar a esfera dos NFTs, transformando completamente a forma como são criados e comercializados. Incorporando a vanguarda da inteligência artificial, ela oferece acesso simplificado e imediato com apenas um clique, abrindo um mundo de possibilidades inovadoras e acessíveis na criação de NFTs. Prepare-se para uma experiência única, onde tecnologia e arte se encontram de maneira nunca vista antes!\
-Com a ZCore AI, os usuários podem criar NFTs utilizando a inteligência artificial com apenas um clique, sem a necessidade de habilidades de codificação.
+The great innovation we are proudly introducing is the ZCore AI artificial intelligence platform. \
+This decentralized platform is about to revolutionize the NFT sphere, completely transforming the way they are created and traded. Incorporating the cutting edge of artificial intelligence, it offers simplified and immediate access with just one click, opening a world of innovative and accessible possibilities in NFT creation. Get ready for a unique experience, where technology and art meet in a way never seen before!\
+With ZCore AI, users can create NFTs using artificial intelligence with just one click, without the need for coding skills.
 
-<figure><img src="https://miro.medium.com/v2/resize:fit:700/1*XRkQVByW4xqgwdtkKvT1dA.png" alt="" height="343" width="700"><figcaption><p>Queime ZCR para gerar as imagens</p></figcaption></figure>
+<figure><img src="https://miro.medium.com/v2/resize:fit:700/1*XRkQVByW4xqgwdtkKvT1dA.png" alt="" height="343" width="700"><figcaption><p>Burn ZCR to generate the images</p></figcaption></figure>
 
-**Criação de NFT com IA**
+**NFT Creation with AI**
 
-A ZCore AI oferece uma abordagem revolucionária na criação de NFTs, permitindo que os usuários gerem NFTs exclusivos em um piscar de olhos. Isso abre um mundo de possibilidades criativas para todos.
+ZCore AI offers a revolutionary approach to NFT creation, allowing users to generate unique NFTs in the blink of an eye. This opens up a world of creative possibilities for everyone.
 
-<figure><img src="https://miro.medium.com/v2/resize:fit:700/1*8_gqQNxF2sNOHR7HTPk9Cg.png" alt="" height="342" width="700"><figcaption><p>Campeonato de NFTs</p></figcaption></figure>
+<figure><img src="https://miro.medium.com/v2/resize:fit:700/1*8_gqQNxF2sNOHR7HTPk9Cg.png" alt="" height="342" width="700"><figcaption><p>NFT Championship</p></figcaption></figure>
 
-**Três Formas de Monetização na ZCore AI**
+**Three Ways to Monetize on ZCore AI**
 
-* Programa de Indicação: Indique amigos e receba 5% sobre todos os valores gastos por eles.
-* Concurso NFTs: Envie NFTs criados por IA para um concurso mensal e tenha a chance de ganhar prêmios em USDT.
-* Venda de Prompts de IA: Venda o prompt de IA associado à imagem gerada junto com o NFT.
+* Referral Program: Refer friends and receive 5% on all amounts they spend.
+* NFT Contest: Submit AI-created NFTs to a monthly contest and have a chance to win USDT prizes.
+* AI Prompts Sale: Sell the AI prompt associated with the generated image along with the NFT.
 
-<figure><img src="https://miro.medium.com/v2/resize:fit:700/1*jaD6KVuSU_b7CNqubAF1mQ.png" alt="" height="343" width="700"><figcaption><p>Você pode gerar as imagens e depois converter em NFTs</p></figcaption></figure>
+<figure><img src="https://miro.medium.com/v2/resize:fit:700/1*jaD6KVuSU_b7CNqubAF1mQ.png" alt="" height="343" width="700"><figcaption><p>You can generate the images and then convert them into NFTs</p></figcaption></figure>
 
-**Distribuição Estratégica de Receitas**
+**Strategic Revenue Distribution**
 
-As receitas da plataforma são distribuídas da seguinte maneira:
+The platform's revenues are distributed as follows:
 
-* 50% das ZCR são queimadas, contribuindo para a valorização da moeda.
-* Os outros 50% são divididos em:
-* \- 20% para campeonatos de NFTs
-* \- 20% para staking de ZCR, Farm Horses e Validadores
-* \- 5% para o programa de indicação
-* \- 5% para a equipe ZCore
+* 50% of ZCR are burned, contributing to the appreciation of the currency.
+* The other 50% are divided into:
+* \- 20% for NFT championships
+* \- 20% for ZCR staking, Farm Horses, and Validators
+* \- 5% for the referral program
+* \- 5% for the ZCore team
 
-<figure><img src="https://miro.medium.com/v2/resize:fit:700/1*8gnHefiFsgR36QAD-Ls0Xg.png" alt="" height="234" width="700"><figcaption><p>Variações Farm Horses</p></figcaption></figure>
+<figure><img src="https://miro.medium.com/v2/resize:fit:700/1*8gnHefiFsgR36QAD-Ls0Xg.png" alt="" height="234" width="700"><figcaption><p>Variations of Farm Horses</p></figcaption></figure>
 
-Os detentores dos NFTs da coleção Farm Horses serão beneficiados com recompensas provenientes da nova plataforma e desempenharão um papel essencial, exercendo seu poder de voto nas escolhas artísticas dos campeonatos. Além disso, terão privilégios exclusivos, como acesso a uma sessão especial para criar variações 3D e aprimoramento de imagem de seus NFTs. Esta funcionalidade, oferecida gratuitamente e ativada com um simples clique, é um benefício exclusivo para os proprietários dos NFTs. Tal iniciativa não apenas valoriza suas coleções, mas também adiciona uma dimensão de vitalidade e refinamento estético a cada obra.
+Holders of the Farm Horses NFT collection will benefit from rewards from the new platform and will play an essential role, exercising their voting power in the artistic choices of the championships. In addition, they will have exclusive privileges, such as access to a special session to create 3D variations and image enhancement of their NFTs. This feature, offered for free and activated with a simple click, is an exclusive benefit for NFT owners. Such an initiative not only values their collections but also adds a dimension of vitality and aesthetic refinement to each work.
 
-<figure><img src="https://miro.medium.com/v2/resize:fit:700/1*WwQUSuJwXcu3Rl5uUVCYaw.png" alt="" height="343" width="700"><figcaption><p>Perfil gerado em IA</p></figcaption></figure>
+<figure><img src="https://miro.medium.com/v2/resize:fit:700/1*WwQUSuJwXcu3Rl5uUVCYaw.png" alt="" height="343" width="700"><figcaption><p>AI-generated Profile</p></figcaption></figure>
 
-**Futuro Promissor: Expansão e Integração**
+**Promising Future: Expansion and Integration**
 
-Inicialmente lançada na rede BSC, a ZCore AI migrará para a rede ZCN conforme o novo roadmap. A plataforma também será integrada ao aplicativo ZCore Wallet.
+Initially launched on the BSC network, ZCore AI will migrate to the ZCN network as per the new roadmap. The platform will also be integrated into the ZCore Wallet application.

@@ -2,30 +2,30 @@
 
 <figure><img src="../.gitbook/assets/discord.jpg" alt=""><figcaption><p><a href="https://zcore.network/mint.html">https://zcore.network/mint.html</a></p></figcaption></figure>
 
-**Introdução à Coleção**
+**Introduction to the Collection**
 
-ZCore Farm Horses representa uma inovadora coleção de NFTs dentro da ZCore Network (ZCN). Esta coleção exclusiva é composta por 10.000 peças de arte digital, cada uma apresentando características únicas e distintas. Entre elas, destacam-se 20 NFTs lendários, símbolos de prestígio e raridade, além de milhares de outros NFTs adornados com uma variedade de acessórios, distribuídos em diversas categorias e níveis de raridade.
+ZCore Farm Horses represents an innovative collection of NFTs within the ZCore Network (ZCN). This exclusive collection is composed of 10,000 pieces of digital art, each featuring unique and distinct characteristics. Among them, 20 legendary NFTs stand out, symbols of prestige and rarity, in addition to thousands of other NFTs adorned with a variety of accessories, distributed in various categories and levels of rarity.
 
 > :racehorse: Mint NFT :&#x20;
 >
 > [https://zcore.network/mint.html](https://zcore.network/mint.html)
 
-**Impacto e Influência dos Detentores**
+**Impact and Influence of Holders**
 
-A posse de um NFT Farm Horse não é apenas um ativo digital; é uma chave para participação ativa na comunidade ZCore. Os detentores desses NFTs têm o poder de influenciar decisões importantes através da DAO (Decentralized Autonomous Organization), uma manifestação do compromisso da ZCore com a descentralização e o poder comunitário. Além disso, os detentores participam ativamente no campeonato de artes promovido pela plataforma ZCore AI, demonstrando o valor que a rede atribui à criatividade e à inovação.
+Owning an NFT Farm Horse is not just a digital asset; it's a key to active participation in the ZCore community. The holders of these NFTs have the power to influence important decisions through the DAO (Decentralized Autonomous Organization), a manifestation of ZCore's commitment to decentralization and community power. In addition, holders actively participate in the art championship promoted by the ZCore AI platform, demonstrating the value that the network attributes to creativity and innovation.
 
-**Benefícios Financeiros e Exclusividade**
+**Financial Benefits and Exclusivity**
 
-A ZCore Farm Horses oferece benefícios financeiros notáveis aos seus detentores. Um desses benefícios é o acesso a um pool de staking exclusivo, que proporciona um rendimento de 2% das reflexões de ZCR, a criptomoeda nativa da rede. Este pool de staking representa uma oportunidade única de geração de renda passiva, reforçando o valor intrínseco destes NFTs.
+ZCore Farm Horses offers notable financial benefits to its holders. One of these benefits is access to an exclusive staking pool, which provides a yield of 2% of ZCR reflections, the native cryptocurrency of the network. This staking pool represents a unique opportunity for passive income generation, reinforcing the intrinsic value of these NFTs.
 
 > :closed\_lock\_with\_key: Stake NFT :&#x20;
 >
 > [https://zcore.network/staking.html](https://zcore.network/staking.html)
 
-**O Papel dos Delegators na Rede ZCN**
+**The Role of Delegators in the ZCN Network**
 
-Na rede ZCN, os detentores dos NFTs Farm Horses assumem um papel crucial como delegators. Para participar neste grupo exclusivo, é necessário contribuir com 1 NFT Farm Horse e um investimento de 100 milhões de ZCR. Esta participação não só reafirma o compromisso dos detentores com a rede, mas também oferece acesso a rendimentos específicos deste pool, destacando a sinergia entre investimento e recompensa na ZCore Network.
+In the ZCN network, the holders of the NFTs Farm Horses assume a crucial role as delegators. To participate in this exclusive group, it is necessary to contribute with 1 NFT Farm Horse and an investment of 100 million ZCR. This participation not only reaffirms the holders' commitment to the network, but also offers access to specific yields from this pool, highlighting the synergy between investment and reward in the ZCore Network.
 
-**Conclusão**
+**Conclusion**
 
-ZCore Farm Horses é mais do que uma coleção de NFTs; é um ecossistema que integra arte, finanças e governança comunitária. Esta coleção não apenas oferece peças de arte digital únicas, mas também abre portas para oportunidades financeiras e uma voz ativa na governança da ZCore Network, pavimentando o caminho para um futuro mais inclusivo e descentralizado no mundo dos NFTs.
+ZCore Farm Horses is more than a collection of NFTs; it's an ecosystem that integrates art, finance, and community governance. This collection not only offers unique digital art pieces but also opens doors to financial opportunities and an active voice in the governance of the ZCore Network, paving the way for a more inclusive and decentralized future in the world of NFTs.

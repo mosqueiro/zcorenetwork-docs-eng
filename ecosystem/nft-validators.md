@@ -2,32 +2,32 @@
 
 <figure><img src="../.gitbook/assets/ZCore_Passport-NFT-Cover.png" alt=""><figcaption></figcaption></figure>
 
-**Introdução ao Conceito de NFT Validators**
+**Introduction to the Concept of NFT Validators**
 
-A ZCore tem o prazer de apresentar sua exclusiva coleção de NFT Validators, uma iniciativa pioneira no mundo das criptomoedas e da tecnologia blockchain. Esta coleção representa não apenas um ativo digital único, mas também uma chave para participar ativamente na validação e no suporte da rede ZCore Network (ZCN).
+ZCore is pleased to introduce its exclusive collection of NFT Validators, a pioneering initiative in the world of cryptocurrencies and blockchain technology. This collection represents not only a unique digital asset but also a key to actively participate in the validation and support of the ZCore Network (ZCN).
 
-> :arrow\_right: Informações sobre Validadores ZCN
+> :arrow_right: Information about ZCN Validators
 >
-> [validadores.md](zcore-evm-zcn/validadores.md "mention")
+> [validators.md](zcore-evm-zcn/validators.md "mention")
 
-**Aquisição de NFT Validators: O Caminho Através de NFTs Lendários**
+**Acquisition of NFT Validators: The Path Through Legendary NFTs**
 
-Para se tornar um detentor de um NFT Validator, é essencial primeiro possuir um NFT lendário da ZCore. Esta pré-requisito assegura que apenas os participantes mais comprometidos e dedicados tenham a oportunidade de adquirir um NFT Validator. Cada NFT lendário é elegível para ser trocado por um NFT Validator, estabelecendo um caminho exclusivo e valioso para os entusiastas da criptomoeda.
+To become a holder of an NFT Validator, it is essential to first own a legendary ZCore NFT. This prerequisite ensures that only the most committed and dedicated participants have the opportunity to acquire an NFT Validator. Each legendary NFT is eligible to be exchanged for an NFT Validator, establishing an exclusive and valuable path for cryptocurrency enthusiasts.
 
-> :arrow\_right: Informações sobre a Coleção Farm Horses
+> :arrow_right: Information about the Farm Horses Collection
 >
 > [nft-farm-horses.md](nft-farm-horses.md "mention")
 
-**Privilegios e Benefícios dos Detentores de NFT Validators**
+**Privileges and Benefits of NFT Validators Holders**
 
-Uma vez que um indivíduo se torna um detentor de um NFT Validator, ele ganha o poder de validar transações na rede ZCore Network (ZCN). Esta responsabilidade crucial não apenas mantém a integridade e a segurança da rede, mas também permite que os detentores recebam todas as taxas associadas às transações validadas.
+Once an individual becomes a holder of an NFT Validator, they gain the power to validate transactions on the ZCore Network (ZCN). This crucial responsibility not only maintains the integrity and security of the network but also allows holders to receive all fees associated with validated transactions.
 
-Além disso, os detentores de NFT Validators são beneficiados com um rendimento passivo de 1,5% das reflexões da ZCore (ZCR) na rede Binance Smart Chain (BSC). Este mecanismo de reflexão garante que os detentores de NFT Validators sejam continuamente recompensados pelo seu papel crucial na rede, proporcionando um fluxo de renda adicional e incentivando a participação a longo prazo.
+In addition, NFT Validators holders are benefited with a passive income of 1.5% from ZCore (ZCR) reflections on the Binance Smart Chain (BSC) network. This reflection mechanism ensures that NFT Validators holders are continuously rewarded for their crucial role in the network, providing an additional income stream and encouraging long-term participation.
 
-> :arrow\_right: Informações sobre as reflexões ZCore (BSC) :&#x20;
+> :arrow_right: Information about ZCore (BSC) reflections :&#x20;
 >
 > [dex.md](token-zcr-bsc/dex.md "mention")
 
-**Conclusão: Um Passo Inovador na Blockchain da ZCore**
+**Conclusion: An Innovative Step in ZCore's Blockchain**
 
-A coleção de NFT Validators da ZCore simboliza um marco significativo na interseção da tecnologia blockchain, finanças descentralizadas e arte digital. Oferecendo um equilíbrio único entre participação ativa na rede e benefícios financeiros, esta coleção está destinada a desempenhar um papel fundamental no futuro da ZCore e na evolução do ecossistema de criptomoedas.
+ZCore's NFT Validators collection symbolizes a significant milestone at the intersection of blockchain technology, decentralized finance, and digital art. Offering a unique balance between active network participation and financial benefits, this collection is destined to play a key role in the future of ZCore and the evolution of the cryptocurrency ecosystem.

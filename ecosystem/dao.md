@@ -2,34 +2,34 @@
 
 <figure><img src="../.gitbook/assets/Captura de Tela 2023-12-14 às 13.48.34.png" alt=""><figcaption><p><a href="https://dao.zcore.network/#/">https://dao.zcore.network</a></p></figcaption></figure>
 
-**Introdução**
+**Introduction**
 
-Bem-vindo ao futuro da governança descentralizada na ZCore Network. Nosso objetivo é criar um ecossistema onde a voz de cada membro é valorizada e as decisões são tomadas coletivamente. Através da nossa DAO (Organização Autônoma Descentralizada), proporcionamos uma plataforma inovadora para nossos membros participarem ativamente na tomada de decisões.
+Welcome to the future of decentralized governance at ZCore Network. Our goal is to create an ecosystem where every member's voice is valued and decisions are made collectively. Through our DAO (Decentralized Autonomous Organization), we provide an innovative platform for our members to actively participate in decision-making.
 
-**Governança Descentralizada**
+**Decentralized Governance**
 
-Na ZCore Network, adotamos uma abordagem descentralizada para a governança. Isso significa que todas as decisões importantes são votadas democraticamente pelos membros da comunidade. A chave para essa participação são os NFTs da coleção Farm Horses, que funcionam como tokens de governança. Cada NFT confere ao seu detentor o direito de votar nas propostas da rede.
+At ZCore Network, we adopt a decentralized approach to governance. This means that all important decisions are democratically voted on by community members. The key to this participation are the NFTs from the Farm Horses collection, which function as governance tokens. Each NFT gives its holder the right to vote on network proposals.
 
-**Plataforma de Votação: Snapshot.org**
+**Voting Platform: Snapshot.org**
 
-Para garantir transparência e eficiência no processo de votação, utilizamos a plataforma Snapshot.org. Reconhecida mundialmente por sua confiabilidade e descentralização, a Snapshot.org oferece um ambiente seguro e transparente para a realização de votações baseadas em blockchain. Isso assegura que cada voto seja contabilizado de forma justa e transparente, mantendo a integridade do processo decisório.
+To ensure transparency and efficiency in the voting process, we use the Snapshot.org platform. Recognized worldwide for its reliability and decentralization, Snapshot.org offers a secure and transparent environment for conducting blockchain-based votes. This ensures that each vote is accounted for fairly and transparently, maintaining the integrity of the decision-making process.
 
-> :ballot\_box: Link para Votação :&#x20;
+> :ballot\_box: Voting Link :&#x20;
 >
 > [https://dao.zcore.network](https://dao.zcore.network/#/)
 
-**Empoderamento dos Detentores de NFT**
+**Empowerment of NFT Holders**
 
-Os detentores dos NFTs Farm Horses não são apenas investidores; eles são participantes ativos no crescimento e direção da ZCore Network. Ao conferir poder de voto aos detentores de NFT, incentivamos uma comunidade engajada e responsável, onde cada membro tem um papel significativo na moldagem do futuro da rede.
+Farm Horses NFT holders are not just investors; they are active participants in the growth and direction of the ZCore Network. By conferring voting power to NFT holders, we encourage an engaged and responsible community, where each member has a significant role in shaping the future of the network.
 
-> Informações sobre a coleção de NFTs Farm Horses
+> Information about the Farm Horses NFT collection
 >
 > [nft-farm-horses.md](nft-farm-horses.md "mention")
 
-**Transparência e Confiança**
+**Transparency and Trust**
 
-A utilização da blockchain na votação não só garante a integridade do processo, mas também promove transparência e confiança entre os membros. Todas as votações são registradas na blockchain, proporcionando um registro imutável e verificável de cada decisão tomada.
+The use of blockchain in voting not only ensures the integrity of the process but also promotes transparency and trust among members. All votes are recorded on the blockchain, providing an immutable and verifiable record of each decision made.
 
-**Conclusão**
+**Conclusion**
 
-A DAO da ZCore Network representa um avanço significativo na forma como as comunidades digitais podem se organizar e tomar decisões coletivas. Com os NFTs Farm Horses e a plataforma Snapshot.org, estamos na vanguarda da governança descentralizada, proporcionando um modelo para outras organizações seguirem. Junte-se a nós nessa jornada revolucionária rumo a um futuro mais democrático e transparente.
+The ZCore Network DAO represents a significant advancement in how digital communities can organize and make collective decisions. With the Farm Horses NFTs and the Snapshot.org platform, we are at the forefront of decentralized governance, providing a model for other organizations to follow. Join us on this revolutionary journey towards a more democratic and transparent future.
