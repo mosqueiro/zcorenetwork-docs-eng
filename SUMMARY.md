@@ -1,24 +1,24 @@
-# Table of contents
+# Table of Contents
 
-## BEM VINDO
+## WELCOME
 
-* [ℹ Sobre a ZCore](README.md)
-* [🛣 Roadmap](bem-vindo/roadmap.md)
+* [ℹ About ZCore](README.md)
+* [🛣 Roadmap](welcome/roadmap.md)
 
-## ECOSSISTEMA
+## ECOSYSTEM
 
-* [🪙 Token ZCR (BSC)](ecossistema/token-zcr-bsc/README.md)
-  * [📈 Tokenomics](ecossistema/token-zcr-bsc/tokenomics.md)
-  * [🔐 Staking](ecossistema/token-zcr-bsc/staking.md)
-  * [🔵 DEX](ecossistema/token-zcr-bsc/dex.md)
-  * [🟡 CEX](ecossistema/token-zcr-bsc/cex.md)
-  * [📊 Cointrack](ecossistema/token-zcr-bsc/cointrack.md)
-* [🌐 ZCore EVM (ZCN)](ecossistema/zcore-evm-zcn/README.md)
-  * [⚙ Configurações](ecossistema/zcore-evm-zcn/configuracoes.md)
-  * [✅ Validadores](ecossistema/zcore-evm-zcn/validadores.md)
-* [📱 ZCore Wallet App](ecossistema/zcore-wallet-app.md)
-* [🤖 ZCore AI](ecossistema/zcore-ai.md)
-* [🐎 NFT Farm Horses](ecossistema/nft-farm-horses.md)
-* [✅ NFT Validators](ecossistema/nft-validators.md)
-* [🗳 DAO](ecossistema/dao.md)
-* [🏙 Metaverso ZCore City](ecossistema/metaverso-zcore-city.md)
+* [🪙 ZCR Token (BSC)](ecosystem/zcr-token-bsc/README.md)
+  * [📈 Tokenomics](ecosystem/zcr-token-bsc/tokenomics.md)
+  * [🔐 Staking](ecosystem/zcr-token-bsc/staking.md)
+  * [🔵 DEX](ecosystem/zcr-token-bsc/dex.md)
+  * [🟡 CEX](ecosystem/zcr-token-bsc/cex.md)
+  * [📊 Cointrack](ecosystem/zcr-token-bsc/cointrack.md)
+* [🌐 ZCore EVM (ZCN)](ecosystem/zcore-evm-zcn/README.md)
+  * [⚙ Settings](ecosystem/zcore-evm-zcn/settings.md)
+  * [✅ Validators](ecosystem/zcore-evm-zcn/validators.md)
+* [📱 ZCore Wallet App](ecosystem/zcore-wallet-app.md)
+* [🤖 ZCore AI](ecosystem/zcore-ai.md)
+* [🐎 NFT Farm Horses](ecosystem/nft-farm-horses.md)
+* [✅ NFT Validators](ecosystem/nft-validators.md)
+* [🗳 DAO](ecosystem/dao.md)
+* [🏙 ZCore City Metaverse](ecosystem/zcore-city-metaverse.md)
