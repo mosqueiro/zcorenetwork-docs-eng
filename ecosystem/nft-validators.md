@@ -26,7 +26,7 @@ In addition, NFT Validators holders are benefited with a passive income of 1.5% 
 
 > :arrow_right: Information about ZCore (BSC) reflections :&#x20;
 >
-> [dex.md](token-zcr-bsc/dex.md "mention")
+> [dex.md](zcr-token-bsc/dex.md "mention")
 
 **Conclusion: An Innovative Step in ZCore's Blockchain**
 
