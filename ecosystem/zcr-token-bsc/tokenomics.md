@@ -12,9 +12,9 @@
 
 ## Burns
 
-> :fire: ZCR burns, essential to its operation, are carried out through the ZCN network and the ZCore AI platform. Unlike conventional practices, these native burns decrease the total supply directly, without the need to transfer to a specific burn address. This method ensures a more accurate representation of the token's market cap. With the continuous reduction of the total supply, ZCR becomes a deflationary token, which potentially increases its value due to increasing scarcity in the market.
+> :fire: ZCR burns, fundamental to its operating mechanism, are conducted through the ZCN network and the ZCore AI platform. In contrast to conventional methods, these native burns reduce the total supply directly, without needing to send to a specific burn address. This approach ensures a more accurate representation of the token's market cap.
 >
->
+> :heavy\_plus\_sign: In addition to the current ones, ZCore plans to implement additional burn systems in its new products, reinforcing the deflationary character of the currency. With this, the ZCR tends to appreciate even more due to the progressive decrease of the supply in the market.
 >
 > :globe\_with\_meridians: The initial supply of ZCR is 2.5 billion, and you can track the burns by checking the supply listed on BscScan: [https://bscscan.com/token/0x0e8fe6eed5342ea9189d9268d088821f0532fb74](https://bscscan.com/token/0x0e8fe6eed5342ea9189d9268d088821f0532fb74).
 
