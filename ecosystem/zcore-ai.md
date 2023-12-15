@@ -1,7 +1,14 @@
 # 🤖 ZCore AI
 
-The great innovation we are proudly introducing is the ZCore AI artificial intelligence platform. \
-This decentralized platform is about to revolutionize the NFT sphere, completely transforming the way they are created and traded. Incorporating the cutting edge of artificial intelligence, it offers simplified and immediate access with just one click, opening a world of innovative and accessible possibilities in NFT creation. Get ready for a unique experience, where technology and art meet in a way never seen before!\
+{% embed url="https://youtu.be/MhbZtPBKhgA" %}
+[https://ai.zcore.network/](https://ai.zcore.network/)
+{% endembed %}
+
+> :globe\_with\_meridians: Test the platform:&#x20;
+>
+> [https://ai.zcore.network](https://ai.zcore.network)
+
+The great innovation we are proudly presenting is the ZCore AI artificial intelligence platform. This decentralized platform is about to revolutionize the NFT sphere, completely transforming the way they are created and traded. Incorporating the cutting edge of artificial intelligence, it offers simplified and immediate access with just one click, opening a world of innovative and accessible possibilities in NFT creation. Get ready for a unique experience, where technology and art meet in a way never seen before!\
 With ZCore AI, users can create NFTs using artificial intelligence with just one click, without the need for coding skills.
 
 <figure><img src="https://miro.medium.com/v2/resize:fit:700/1*XRkQVByW4xqgwdtkKvT1dA.png" alt="" height="343" width="700"><figcaption><p>Burn ZCR to generate the images</p></figcaption></figure>
@@ -22,18 +29,18 @@ ZCore AI offers a revolutionary approach to NFT creation, allowing users to gene
 
 **Strategic Revenue Distribution**
 
-The platform's revenues are distributed as follows:
+Platform revenues are distributed as follows:
 
-* 50% of ZCR are burned, contributing to the appreciation of the currency.
-* The other 50% are divided into:
-* \- 20% for NFT championships
-* \- 20% for ZCR staking, Farm Horses, and Validators
-* \- 5% for the referral program
-* \- 5% for the ZCore team
+* 40% of ZCR are burned, contributing to the appreciation of the currency.
+* The other 60% are divided into:\
+  \- 20% for NFT championships\
+  \- 20% for ZCR staking, Farm Horses, and Validators\
+  \- 5% for the referral program\
+  \- 15% for platform costs (servers, APIs, development)
 
-<figure><img src="https://miro.medium.com/v2/resize:fit:700/1*8gnHefiFsgR36QAD-Ls0Xg.png" alt="" height="234" width="700"><figcaption><p>Variations of Farm Horses</p></figcaption></figure>
+<figure><img src="https://miro.medium.com/v2/resize:fit:700/1*8gnHefiFsgR36QAD-Ls0Xg.png" alt="" height="234" width="700"><figcaption><p>Farm Horses Variations</p></figcaption></figure>
 
-Holders of the Farm Horses NFT collection will benefit from rewards from the new platform and will play an essential role, exercising their voting power in the artistic choices of the championships. In addition, they will have exclusive privileges, such as access to a special session to create 3D variations and image enhancement of their NFTs. This feature, offered for free and activated with a simple click, is an exclusive benefit for NFT owners. Such an initiative not only values their collections but also adds a dimension of vitality and aesthetic refinement to each work.
+Holders of the Farm Horses NFT collection will benefit from rewards from the new platform and will play an essential role, exercising their voting power in the artistic choices of the championships. In addition, they will have exclusive privileges, such as access to a special session to create 3D variations and image enhancement of their NFTs. This functionality, offered for free and activated with a simple click, is an exclusive benefit for NFT owners. Such an initiative not only values their collections but also adds a dimension of vitality and aesthetic refinement to each work.
 
 <figure><img src="https://miro.medium.com/v2/resize:fit:700/1*WwQUSuJwXcu3Rl5uUVCYaw.png" alt="" height="343" width="700"><figcaption><p>AI-generated Profile</p></figcaption></figure>
 
