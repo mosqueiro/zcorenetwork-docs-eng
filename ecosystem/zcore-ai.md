@@ -1,6 +1,6 @@
 # 🤖 ZCore AI
 
-{% embed url="https://youtu.be/MhbZtPBKhgA" %}
+{% embed url="https://youtu.be/J2vkmX-4fDs" %}
 [https://ai.zcore.network/](https://ai.zcore.network/)
 {% endembed %}
 
