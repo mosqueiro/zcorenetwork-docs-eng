@@ -6,7 +6,7 @@
 
 ZCore Farm Horses represents an innovative collection of NFTs within the ZCore Network (ZCN). This exclusive collection is composed of 10,000 pieces of digital art, each featuring unique and distinct characteristics. Among them, 20 legendary NFTs stand out, symbols of prestige and rarity, in addition to thousands of other NFTs adorned with a variety of accessories, distributed in various categories and levels of rarity.
 
-> :racehorse: Mint NFT :&#x20;
+> :racehorse: Mint NFT :
 >
 > [https://zcore.network/mint.html](https://zcore.network/mint.html)
 
@@ -18,13 +18,17 @@ Owning an NFT Farm Horse is not just a digital asset; it's a key to active parti
 
 ZCore Farm Horses offers notable financial benefits to its holders. One of these benefits is access to an exclusive staking pool, which provides a yield of 2% of ZCR reflections, the native cryptocurrency of the network. This staking pool represents a unique opportunity for passive income generation, reinforcing the intrinsic value of these NFTs.
 
-> :closed\_lock\_with\_key: Stake NFT :&#x20;
+> :closed\_lock\_with\_key: Stake NFT (old) :
+>
+> [https://zcore.network/staking-old.html](https://zcore.network/staking.html)
+>
+> :closed\_lock\_with\_key: Stake NFT (new) :
 >
 > [https://zcore.network/staking.html](https://zcore.network/staking.html)
 
 **The Role of Delegators in the ZCN Network**
 
-In the ZCN network, the holders of the NFTs Farm Horses assume a crucial role as delegators. To participate in this exclusive group, it is necessary to contribute with 1 NFT Farm Horse and an investment of 100 million ZCR. This participation not only reaffirms the holders' commitment to the network, but also offers access to specific yields from this pool, highlighting the synergy between investment and reward in the ZCore Network.
+In the ZCN network, the holders of the NFTs Farm Horses assume a crucial role as delegators. To participate in this exclusive group, it is necessary to contribute with 1 NFT Farm Horse and an investment of 100k ZCR. This participation not only reaffirms the holders' commitment to the network, but also offers access to specific yields from this pool, highlighting the synergy between investment and reward in the ZCore Network.
 
 **Conclusion**
 
