@@ -1,4 +1,4 @@
-# Table of Contents
+# Index
 
 ## WELCOME
 
@@ -16,7 +16,10 @@
 * [🌐 ZCore EVM (ZCN)](ecosystem/zcore-evm-zcn/README.md)
   * [⚙ Settings](ecosystem/zcore-evm-zcn/settings.md)
   * [✅ Validators](ecosystem/zcore-evm-zcn/validators.md)
-* [📱 ZCore Wallet App](ecosystem/zcore-wallet-app.md)
+* [📱 ZCore Wallet App](ecosystem/zcore-wallet-app/README.md)
+  * [Privacy Policy](ecosystem/zcore-wallet-app/privacy-policy.md)
+  * [Terms of Use](ecosystem/zcore-wallet-app/terms-of-use.md)
+  * [Anti-Money Laundering Policy](ecosystem/zcore-wallet-app/anti-money-laundering-policy.md)
 * [🤖 ZCore AI](ecosystem/zcore-ai.md)
 * [🐎 NFT Farm Horses](ecosystem/nft-farm-horses.md)
 * [✅ NFT Validators](ecosystem/nft-validators.md)
