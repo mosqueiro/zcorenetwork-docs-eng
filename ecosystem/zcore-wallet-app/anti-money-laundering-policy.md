@@ -1,4 +1,4 @@
-# Anti-Money Laundering Policy
+# Anti-Money Laundering Policy (Pix)
 
 ### Introduction <a href="#introduction" id="introduction"></a>
 
