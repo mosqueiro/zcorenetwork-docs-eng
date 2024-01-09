@@ -1,49 +1,83 @@
 # 🤖 ZCore AI
 
-{% embed url="https://youtu.be/J2vkmX-4fDs" %}
-[https://ai.zcore.network/](https://ai.zcore.network/)
+{% embed url="https://youtu.be/n-Vb3uSNhls" %}
+**How ZCore AI Works**
 {% endembed %}
 
-> :globe\_with\_meridians: Test the platform:&#x20;
->
-> [https://ai.zcore.network](https://ai.zcore.network)
+> :globe\_with\_meridians: [https://ai.zcore.network](https://ai.zcore.network)
 
-The great innovation we are proudly presenting is the ZCore AI artificial intelligence platform. This decentralized platform is about to revolutionize the NFT sphere, completely transforming the way they are created and traded. Incorporating the cutting edge of artificial intelligence, it offers simplified and immediate access with just one click, opening a world of innovative and accessible possibilities in NFT creation. Get ready for a unique experience, where technology and art meet in a way never seen before!\
-With ZCore AI, users can create NFTs using artificial intelligence with just one click, without the need for coding skills.
+Welcome to ZCore AI, an innovative Artificial Intelligence platform focused on creating and generating NFTs. This document provides a comprehensive guide on how to use the platform, maximizing its features and exploring its advantages.
 
-<figure><img src="https://miro.medium.com/v2/resize:fit:700/1*XRkQVByW4xqgwdtkKvT1dA.png" alt="" height="343" width="700"><figcaption><p>Burn ZCR to generate the images</p></figcaption></figure>
+#### How to Use ZCore AI
 
-**NFT Creation with AI**
+**Access and Initial Setup**
 
-ZCore AI offers a revolutionary approach to NFT creation, allowing users to generate unique NFTs in the blink of an eye. This opens up a world of creative possibilities for everyone.
+* Access the ZCore AI website.
+* Connect your wallet on the BSC network.
+* Create and configure your profile in 'Settings'.
 
-<figure><img src="https://miro.medium.com/v2/resize:fit:700/1*8_gqQNxF2sNOHR7HTPk9Cg.png" alt="" height="342" width="700"><figcaption><p>NFT Championship</p></figcaption></figure>
+**Creating AI NFTs**
 
-**Three Ways to Monetize on ZCore AI**
+* Select 'Create' in the menu to start creating AI images.
+* Generate up to five free images, with the limit resetting after each NFT generated.
+* Use the 'Description' field to detail your images.
+* Explore additional options such as 'Improve My Description', 'Real Photo', and 'Use Prompt on an Existing Image'.
+* After choosing your preferences, click on 'Generate Image for AI NFT'.
 
-* Referral Program: Refer friends and receive 5% on all amounts they spend.
-* NFT Contest: Submit AI-created NFTs to a monthly contest and have a chance to win USDT prizes.
-* AI Prompts Sale: Sell the AI prompt associated with the generated image along with the NFT.
+**Generating and Selling NFTs**
 
-<figure><img src="https://miro.medium.com/v2/resize:fit:700/1*jaD6KVuSU_b7CNqubAF1mQ.png" alt="" height="343" width="700"><figcaption><p>You can generate the images and then convert them into NFTs</p></figcaption></figure>
+* Acquire 'NFT Tickets'.
+* Choose your token and set the number in 'Reward Mint'.
+* After minting, access the Marketplace to sell your NFT.
 
-**Strategic Revenue Distribution**
 
-Platform revenues are distributed as follows:
 
-* 40% of ZCR are burned, contributing to the appreciation of the currency.
-* The other 60% are divided into:\
-  \- 20% for NFT championships\
-  \- 20% for ZCR staking, Farm Horses, and Validators\
-  \- 5% for the referral program\
-  \- 15% for platform costs (servers, APIs, development)
+{% embed url="https://youtu.be/GqWV_d1FjUM" %}
+**Advantages for Token Developers on ZCore AI**
+{% endembed %}
 
-<figure><img src="https://miro.medium.com/v2/resize:fit:700/1*8gnHefiFsgR36QAD-Ls0Xg.png" alt="" height="234" width="700"><figcaption><p>Farm Horses Variations</p></figcaption></figure>
+**Visibility and Access to Cutting-Edge Technology**
 
-Holders of the Farm Horses NFT collection will benefit from rewards from the new platform and will play an essential role, exercising their voting power in the artistic choices of the championships. In addition, they will have exclusive privileges, such as access to a special session to create 3D variations and image enhancement of their NFTs. This functionality, offered for free and activated with a simple click, is an exclusive benefit for NFT owners. Such an initiative not only values their collections but also adds a dimension of vitality and aesthetic refinement to each work.
+* Raise the profile of your project in the cryptocurrency market.
+* Integrate your token into the world of AI.
 
-<figure><img src="https://miro.medium.com/v2/resize:fit:700/1*WwQUSuJwXcu3Rl5uUVCYaw.png" alt="" height="343" width="700"><figcaption><p>AI-generated Profile</p></figcaption></figure>
+**Direct Benefits for Developers**
 
-**Promising Future: Expansion and Integration**
+* Receive USDT directly in your wallet.
+* Earn 10% of each ticket purchased with your token.
+* Share profits in case of referrals.
 
-Initially launched on the BSC network, ZCore AI will migrate to the ZCN network as per the new roadmap. The platform will also be integrated into the ZCore Wallet application.
+**Market Impact and Unique Opportunities**
+
+* Increase the visibility and engagement of your token.
+* Attract new users and investors.
+* Appreciate your token in the market.
+
+#### How to List Your Token
+
+* Get in touch with the ZCore AI team.
+* Provide the developer's token wallet in the listing.
+* Enjoy free token listing.
+
+#### Division of Values Received in Tickets
+
+**ZCR Token Tickets**
+
+* 50% of ZCR are burned.
+* 50% are converted into USDT being: \
+  \- 10% of USDT for those who refer friends.\
+  \- 35% of USDT to cover the platform costs.\
+  \- 65% of USDT for the Reward Mint.
+
+**Tickets with Other Tokens**
+
+* 50% are used to buy ZCR and burned.
+* 50% are converted into USDT being: \
+  \- 10% of USDT for those who refer friends.\
+  \- 10% of USDT for the token developer.\
+  \- 25% of USDT to cover the platform costs.\
+  \- 65% of USDT for the Reward Mint.
+
+### Conclusion
+
+ZCore AI is more than a platform to create and sell NFTs; it's a unique opportunity for token developers. With an intuitive interface and innovative features, ZCore AI is the ideal tool to explore the potential of NFTs and AI in the cryptocurrency market. Don't miss the chance to turn your ideas into digital works of art and boost your token in the competitive world of cryptocurrencies.
