@@ -4,7 +4,7 @@
 
 > _Initial LP: **BNB**_
 >
-> * _Token Tax: 3**% purchase / 9% sale**_
+> * _Token Tax: 3% purchase / 9% sale_
 > *   _Swap:_ [_https://pancakeswap.finance/swap?outputCurrency=0x0e8fE6eeD5342Ea9189D9268D088821f0532fb74_](https://pancakeswap.finance/swap?outputCurrency=0x0e8fE6eeD5342Ea9189D9268D088821f0532fb74)\
 >     \
 >     **3% Purchase Fee**:
