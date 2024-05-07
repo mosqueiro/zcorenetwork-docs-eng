@@ -27,16 +27,16 @@ This collection on the Solana network is an example of how creativity and innova
 [tokenomics.md](tokenomics.md)
 {% endcontent-ref %}
 
-{% content-ref url="how-to-buy.md" %}
-[how-to-buy.md](how-to-buy.md)
+{% content-ref url="como-comprar.md" %}
+[como-comprar.md](como-comprar.md)
 {% endcontent-ref %}
 
-{% content-ref url="bridge-bsc-solana.md" %}
-[bridge-bsc-solana.md](bridge-bsc-solana.md)
+{% content-ref url="ponte-bsc-solana.md" %}
+[ponte-bsc-solana.md](ponte-bsc-solana.md)
 {% endcontent-ref %}
 
-{% content-ref url="telegram-bot.md" %}
-[telegram-bot.md](telegram-bot.md)
+{% content-ref url="bot-telegram.md" %}
+[bot-telegram.md](bot-telegram.md)
 {% endcontent-ref %}
 
 {% content-ref url="staking.md" %}
@@ -47,6 +47,6 @@ This collection on the Solana network is an example of how creativity and innova
 [roadmap.md](roadmap.md)
 {% endcontent-ref %}
 
-{% content-ref url="useful-links.md" %}
-[useful-links.md](useful-links.md)
+{% content-ref url="links-uteis.md" %}
+[links-uteis.md](links-uteis.md)
 {% endcontent-ref %}
