@@ -3,15 +3,36 @@ cover: .gitbook/assets/ZCore_Rebranding.png
 coverY: 0
 ---
 
-# ℹ About ZCore
+# ℹ️ About ZCore
 
-ZCore Network is an innovative blockchain technology company, standing out in the market with a range of advanced products and services. Among its main products are:
+ZCore Network is an innovative company in the blockchain technology sector, offering a variety of advanced products and services. We highlight the following initiatives:
 
-1. **ZCore Wallet**: This digital wallet represents the backbone of ZCore's product offering. It is a secure and versatile solution for storing and managing cryptocurrencies, offering an intuitive interface for users of all levels.
-2. **PIX Solution integrated with ZCore Wallet**: This innovative integration allows for fast and secure transactions using the PIX system, an instant payment method widely used in Brazil. This functionality makes the ZCore Wallet even more accessible and convenient for users, facilitating the movement of funds between cryptocurrencies and fiat currency.
-3. **ZCore AI Platform**: An advanced platform that uses artificial intelligence to optimize the trading experience and digital asset management. ZCore AI analyzes the cryptocurrency market, providing valuable insights and helping users make more informed investment decisions.
-4. **Integration of the ZCore AI Platform in the ZCore Wallet Application**: This integration combines the best of both worlds - the convenience of the ZCore Wallet and the advanced intelligence of ZCore AI. With this, users have access to market analysis and trading recommendations directly in their digital wallets.
-5. **ZCN EVM Network**: ZCore Network also stands out with its own EVM (Ethereum Virtual Machine) Network, called ZCN. This network offers compatibility with decentralized applications (DApps) and smart contracts, allowing developers to create and launch innovative solutions in the ZCore ecosystem.
-6. **ZCore City Metaverse**: An ambitious project that represents ZCore's entry into the universe of metaverses. ZCore City is an immersive virtual environment, where users can interact, participate in events, games and other activities, using blockchain technology for a secure and decentralized experience.
+### ZCore Wallet 🏦
 
-Overall, the ZCore Network provides a robust and integrated ecosystem for cryptocurrency and blockchain enthusiasts, marking its presence as an innovative leader in the industry.
+* **Digital Wallet:** Represents the base of ZCore products, being a secure and versatile digital wallet for storage and management of cryptocurrencies, with an intuitive interface for users of all levels.
+
+### PIX Solution Integrated to ZCore Wallet 💳
+
+* **PIX Integration:** Allows fast and secure transactions using the PIX system in Brazil, facilitating the movement between cryptocurrencies and fiat currency and making the ZCore Wallet even more convenient.
+
+### ZCN EVM Network 🔗
+
+* **EVM Network (Ethereum Virtual Machine):** ZCore Network has its own EVM Network, ZCN, compatible with DApps and smart contracts, which allows developers to create and launch innovative solutions in the ZCore ecosystem.
+
+### ZCore AI for BSC 🤖
+
+* **Artificial Intelligence on BSC:** ZCore AI for Binance Smart Chain (BSC) offers in-depth analysis and trading recommendations, improving the digital asset management experience on BSC.
+
+### ZCore AI for Solana 🌟
+
+* **AI Solutions for Solana:** ZCore AI for Solana brings artificial intelligence features to the Solana ecosystem, providing insights and analysis for effective trading and investments.
+
+For support and to interact with other community members, we invite you to join our group on Telegram:
+
+### Update on the Metaverse Project 🚫
+
+The metaverse project has been temporarily deactivated in response to the note issued by Rockstar, which prohibits the use of cryptocurrencies on its servers and signals the possibility of legal actions against infringements. ZCore Network is exploring alternatives to resume the project safely and in compliance with legal guidelines, without jeopardizing the legal integrity of the company.
+
+* **ZCore Miners Community:** [https://t.me/ZCoreMiners](https://t.me/ZCoreMiners)
+
+Our community is always active and ready to provide support and share useful information. Come and be a part of it!

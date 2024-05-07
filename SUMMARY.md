@@ -1,32 +1,44 @@
-# Index
+# Table of Contents
 
 ## WELCOME
 
-* [ℹ About ZCore](README.md)
-* [🛣 Roadmap](welcome/roadmap.md)
+* [ℹ️ About ZCore](README.md)
 
 ## ECOSYSTEM
 
-* [🪙 ZCR Token (BSC)](ecosystem/zcr-token-bsc/README.md)
-  * [📈 Tokenomics](ecosystem/zcr-token-bsc/tokenomics.md)
-  * [🔐 Staking](ecosystem/zcr-token-bsc/staking.md)
-  * [🔵 DEX](ecosystem/zcr-token-bsc/dex.md)
-  * [🟡 CEX](ecosystem/zcr-token-bsc/cex.md)
-  * [📊 Cointrack](ecosystem/zcr-token-bsc/cointrack.md)
-* [🌐 ZCore EVM (ZCN)](ecosystem/zcore-evm-zcn/README.md)
-  * [⚙ Settings](ecosystem/zcore-evm-zcn/settings.md)
-  * [✅ Validators](ecosystem/zcore-evm-zcn/validators.md)
-* [📱 ZCore Wallet App](ecosystem/zcore-wallet-app/README.md)
-  * [Privacy Policy](ecosystem/zcore-wallet-app/privacy-policy.md)
-  * [Terms of Use](ecosystem/zcore-wallet-app/terms-of-use.md)
-* [🤖 ZCore AI](ecosystem/zcore-ai.md)
-* [🐎 NFT Farm Horses](ecosystem/nft-farm-horses.md)
-* [✅ NFT Validators](ecosystem/nft-validators.md)
-* [🗳 DAO](ecosystem/dao.md)
-* [🏙 ZCore City Metaverse](ecosystem/zcore-city-metaverse.md)
+* [🪙 ZCR Token (BSC)](ecossistema/token-zcr-bsc/README.md)
+  * [📊 Tokenomics](ecossistema/token-zcr-bsc/tokenomics.md)
+  * [🔐 Staking](ecossistema/token-zcr-bsc/staking.md)
+  * [🟢 Trade](ecossistema/token-zcr-bsc/dex.md)
+  * [📊 Cointrack](ecossistema/token-zcr-bsc/cointrack.md)
+* [🌐 ZCore EVM (ZCN)](ecossistema/zcore-evm-zcn/README.md)
+  * [🛣️ Roadmap](ecossistema/zcore-evm-zcn/roadmap.md)
+  * [✅ Validators](ecossistema/zcore-evm-zcn/validadores.md)
+  * [⚙️ Settings](ecossistema/zcore-evm-zcn/configuracoes.md)
+* [📱 ZCore Wallet App](ecossistema/zcore-wallet-app/README.md)
+  * [Privacy Policy](ecossistema/zcore-wallet-app/politica-de-privacidade.md)
+  * [Terms of Use](ecossistema/zcore-wallet-app/termos-de-uso.md)
+  * [Money Laundering Prevention Policy](ecossistema/zcore-wallet-app/politica-de-prevencao-a-lavagem-de-dinheiro.md)
+* [🤖 ZCore AI](ecossistema/zcore-ai/README.md)
+  * [🟣 ZCRAI Solana](ecossistema/zcore-ai/zcrai-solana/README.md)
+    * [📊 Tokenomics](ecossistema/zcore-ai/zcrai-solana/tokenomics.md)
+    * [🛒 How to Buy](ecossistema/zcore-ai/zcrai-solana/como-comprar.md)
+    * [↔️ BSC-Solana Bridge](ecossistema/zcore-ai/zcrai-solana/ponte-bsc-solana.md)
+    * [🤖 Telegram Bot](ecossistema/zcore-ai/zcrai-solana/bot-telegram.md)
+    * [🔐 Staking](ecossistema/zcore-ai/zcrai-solana/staking.md)
+    * [🛣️ Roadmap](ecossistema/zcore-ai/zcrai-solana/roadmap.md)
+    * [🔗 Useful Links](ecossistema/zcore-ai/zcrai-solana/links-uteis.md)
+  * [🟡 ZCRAI BSC](ecossistema/zcore-ai/zcrai-bsc/README.md)
+    * [📊 Tokenomics](ecossistema/zcore-ai/zcrai-bsc/tokenomics.md)
+    * [🛒 How to Buy](ecossistema/zcore-ai/zcrai-bsc/como-comprar.md)
+    * [🔐 Staking](ecossistema/zcore-ai/zcrai-bsc/staking.md)
+    * [🔗 Useful Links](ecossistema/zcore-ai/zcrai-bsc/links-uteis.md)
+* [🗳️ DAO](ecossistema/dao.md)
 
 ## LINKS
 
 * [Website](https://zcore.network/)
 * [Twitter](https://twitter.com/zcorecrypto)
 * [Telegram](https://t.me/zcoreminers)
+
+I'm sorry, but you didn't provide any Markdown content for me to translate. Could you please provide the content you want translated?
