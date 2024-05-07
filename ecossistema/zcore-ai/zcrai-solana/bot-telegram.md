@@ -10,7 +10,7 @@ The ZCRAI Solana Telegram bot is an innovative tool that functions as a decentra
 
 To start using the ZCRAI Solana Telegram bot, follow these steps:
 
-1. Access the bot link: https://t.me/ZCRAISolBot.
+1. Access the bot link: [https://t.me/ZCRAISolBot](https://t.me/ZCRAISolBot)
 2. On Telegram, start a conversation with the bot by clicking on "Start" or "Iniciar".
 3. The bot will provide instructions to set up your wallet, including creating or importing a private key.
 
