@@ -6,11 +6,13 @@
 
 Staking is an effective way for cryptocurrency holders to increase their assets by locking coins in a wallet to participate in a blockchain network's operations. With ZCRAI Solana, you can start with Liquidity Pools (LP) staking and, in the future, NFT staking as the roadmap progresses.
 
-### ZCRAI and SOL LP Staking 🤝
+### ZCRAI/SOL LP Staking 🤝
 
 To participate in LP staking, users must set up a ZCRAI and SOL liquidity pair. Staking yields are distributed in ZCRAI tokens.
 
-#### How to Set Up ZCRAI and SOL LP
+> **ZCRAI/SOL Pool:** [https://beta.raydium.io/liquidity-pools/?tab=standard\&show\_farms=false\&sort\_by=apr\&token=DpCzuUVptrvEquumfomwJQjWrgQXXDN9Ar217oGxcohe\&layout=grid](https://beta.raydium.io/liquidity-pools/?tab=standard\&show\_farms=false\&sort\_by=apr\&token=DpCzuUVptrvEquumfomwJQjWrgQXXDN9Ar217oGxcohe\&layout=grid)
+
+#### How to Set Up ZCRAI/SOL LP
 
 1. Access the Raydium platform, Solana's largest decentralized exchange, via the link: [https://beta.raydium.io/liquidity/increase/?mode=add\&pool\_id=hzsQaPV2TxTsGzfqSRu9rqfVWUpZrvaa5uvYTzXKYuk](https://beta.raydium.io/liquidity/increase/?mode=add\&pool\_id=hzsQaPV2TxTsGzfqSRu9rqfVWUpZrvaa5uvYTzXKYuk)
 2. Follow the instructions to add liquidity to the ZCRAI and SOL pool, without worrying about ranges; the standard LP type is straightforward, you just create the LP and deposit it in the staking pool.
