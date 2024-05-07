@@ -26,14 +26,14 @@ This collection represents an exceptional fusion of art, technology, and finance
 [tokenomics.md](tokenomics.md)
 {% endcontent-ref %}
 
-{% content-ref url="how-to-buy.md" %}
-[how-to-buy.md](how-to-buy.md)
+{% content-ref url="como-comprar.md" %}
+[como-comprar.md](como-comprar.md)
 {% endcontent-ref %}
 
 {% content-ref url="staking.md" %}
 [staking.md](staking.md)
 {% endcontent-ref %}
 
-{% content-ref url="useful-links.md" %}
-[useful-links.md](useful-links.md)
+{% content-ref url="links-uteis.md" %}
+[links-uteis.md](links-uteis.md)
 {% endcontent-ref %}
