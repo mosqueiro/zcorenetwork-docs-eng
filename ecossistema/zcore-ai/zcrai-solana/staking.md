@@ -1,6 +1,6 @@
 # 🔐 Staking
 
-<figure><img src="../../../.gitbook/assets/Captura de Tela 2024-05-06 às 15.50.34.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Captura%20de%20Tela%202024-05-06%20a%CC%80s%2015.50.34.png" alt=""><figcaption></figcaption></figure>
 
 ### Introduction to Staking 🌱
 
@@ -12,7 +12,7 @@ To participate in LP staking, users must set up a ZCRAI and SOL liquidity pair. 
 
 #### How to Set Up ZCRAI and SOL LP
 
-1. Access the Raydium platform, Solana's largest decentralized exchange, via the link: [https://beta.raydium.io/liquidity/increase/?mode=add\&pool\_id=6tWbT4XdQGryMk3TgyKen8Wm3oUG5b3vbz444LzdNKBj](https://beta.raydium.io/liquidity/increase/?mode=add\&pool\_id=6tWbT4XdQGryMk3TgyKen8Wm3oUG5b3vbz444LzdNKBj).
+1. Access the Raydium platform, Solana's largest decentralized exchange, via the link: [https://beta.raydium.io/liquidity/increase/?mode=add\&pool\_id=hzsQaPV2TxTsGzfqSRu9rqfVWUpZrvaa5uvYTzXKYuk](https://beta.raydium.io/liquidity/increase/?mode=add\&pool\_id=hzsQaPV2TxTsGzfqSRu9rqfVWUpZrvaa5uvYTzXKYuk)
 2. Follow the instructions to add liquidity to the ZCRAI and SOL pool, without worrying about ranges; the standard LP type is straightforward, you just create the LP and deposit it in the staking pool.
 3. After adding liquidity, you will receive LP tokens that symbolize your share in the pool.
 
