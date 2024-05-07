@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/ZCore_Rebranding-08-English_1920x1080px.png
+cover: ../../.gitbook/assets/ZCore_Rebranding-08-English_1920x1080px (1).png
 coverY: 0
 layout:
   cover:
