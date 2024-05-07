@@ -41,4 +41,4 @@
 * [Twitter](https://twitter.com/zcorecrypto)
 * [Telegram](https://t.me/zcoreminers)
 
-I'm sorry, but you didn't provide any Markdown content for me to translate. Could you please provide the content you want translated?
+
