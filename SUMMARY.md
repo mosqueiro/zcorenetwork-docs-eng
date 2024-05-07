@@ -1,4 +1,4 @@
-# Table of Contents
+# Table of contents
 
 ## WELCOME
 
@@ -18,7 +18,7 @@
 * [📱 ZCore Wallet App](ecossistema/zcore-wallet-app/README.md)
   * [Privacy Policy](ecossistema/zcore-wallet-app/politica-de-privacidade.md)
   * [Terms of Use](ecossistema/zcore-wallet-app/termos-de-uso.md)
-  * [Money Laundering Prevention Policy](ecossistema/zcore-wallet-app/politica-de-prevencao-a-lavagem-de-dinheiro.md)
+  * [Anti-Money Laundering Policy](ecossistema/zcore-wallet-app/politica-de-prevencao-a-lavagem-de-dinheiro.md)
 * [🤖 ZCore AI](ecossistema/zcore-ai/README.md)
   * [🟣 ZCRAI Solana](ecossistema/zcore-ai/zcrai-solana/README.md)
     * [📊 Tokenomics](ecossistema/zcore-ai/zcrai-solana/tokenomics.md)
@@ -40,5 +40,3 @@
 * [Website](https://zcore.network/)
 * [Twitter](https://twitter.com/zcorecrypto)
 * [Telegram](https://t.me/zcoreminers)
-
-

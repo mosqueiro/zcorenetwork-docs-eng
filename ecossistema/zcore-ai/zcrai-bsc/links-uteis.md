@@ -1,9 +1,9 @@
 # 🔗 Useful Links
 
-Below are important links for those interested in more information about the ZCRAI Token/NFT and its related transactions on the Binance Smart Chain, as well as platforms where you can explore and acquire the ZCRAI collection NFTs.
+Below are important links for those interested in more information about the ZCRAI Token/NFT and its related transactions on the Binance Smart Chain, as well as platforms where you can explore and acquire NFTs from the ZCRAI collection.
 
 * **DexTools - ZCRAI Pair Chart:**
-  * [https://www.dextools.io/app/en/bnb/pair-explorer/0x54704f339d9fd2ceb883f52e60c3420b7a8572c5?t=1715003180442](https://www.dextools.io/app/en/bnb/pair-explorer/0x54704f339d9fd2ceb883f52e60c3420b7a8572c5?t=1715003180442) This link leads to the ZCRAI trading pair chart on DexTools, where users can track price variations and other relevant market metrics.
+  * [https://www.dextools.io/app/en/bnb/pair-explorer/0x54704f339d9fd2ceb883f52e60c3420b7a8572c5?t=1715003180442](https://www.dextools.io/app/en/bnb/pair-explorer/0x54704f339d9fd2ceb883f52e60c3420b7a8572c5?t=1715003180442) This link leads to the ZCRAI trading pair chart on DexTools, where users can follow price variations and other relevant market metrics.
 * **BscScan - ZCRAI Contract:**
   * [https://bscscan.com/address/0x85bcf2d5046a7a501c818a73c6ba11bd10852233](https://bscscan.com/address/0x85bcf2d5046a7a501c818a73c6ba11bd10852233) This link provides direct access to the ZCRAI smart contract on the Binance Smart Chain, where it is possible to view transactions, token balance, and other contract-related activities.
 * **Element Market - ZCore AI Anime Collection:**

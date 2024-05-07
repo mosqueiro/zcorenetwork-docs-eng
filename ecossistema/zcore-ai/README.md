@@ -6,18 +6,29 @@ ZCore AI Collections (ZCRAI) represent a significant innovation in the digital a
 
 **Proprietary AI Technology**
 
-Each NFT in the ZCRAI collection is created using advanced artificial intelligence algorithms developed by ZCore Network's AI servers. This technology allows the generation of unique digital artworks, which not only possess unparalleled aesthetic value, but also incorporate complex and detailed characteristics that differentiate them in the NFT market.
+Each NFT in the ZCRAI collection is created using advanced artificial intelligence algorithms developed by ZCore Network's AI servers. This technology allows for the generation of unique digital artworks, which not only possess unparalleled aesthetic value but also incorporate complex and detailed characteristics that differentiate them in the NFT market.
 
 **Unique Features**
 
-The AI technology not only guarantees the originality of each piece but also ensures its authenticity and the impossibility of exact duplication. This gives collectors the certainty that they are acquiring a truly unique and exclusive piece.
+The AI technology not only ensures the originality of each piece but also secures its authenticity and the impossibility of exact duplication. This gives collectors the certainty that they are acquiring a truly unique and exclusive piece.
 
 **Benefits for Collectors**
 
-Collectors of ZCRAI NFTs enjoy various benefits, including access to exclusive releases, special events, and the possibility of participating in community decisions related to the future direction of the collections. In addition, each NFT is accompanied by a digital certificate of authenticity, ensuring its provenance and legitimacy.
+Collectors of ZCRAI NFTs enjoy various benefits, including access to exclusive releases, special events, and the possibility to participate in community decisions regarding the future direction of the collections. Additionally, each NFT comes with a digital certificate of authenticity, ensuring its provenance and legitimacy.
 
 **Commitment to Innovation**
 
 ZCore Network is committed to remaining at the forefront of blockchain and AI technology development. We will continue to explore new possibilities and expand our NFT collections, ensuring that our collectors have access to the most advanced in the market.
 
 For more information on how to start collecting ZCore AI NFTs, visit our website or contact us through our official communication channels.
+
+{% content-ref url="zcrai-solana/" %}
+[zcrai-solana](zcrai-solana/)
+{% endcontent-ref %}
+
+
+{% content-ref url="zcrai-bsc/" %}
+[zcrai-bsc](zcrai-bsc/)
+{% endcontent-ref %}
+
+
