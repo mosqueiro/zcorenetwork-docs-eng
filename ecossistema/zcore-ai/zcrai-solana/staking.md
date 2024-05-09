@@ -10,7 +10,9 @@ Staking is an effective way for cryptocurrency holders to increase their assets 
 
 To participate in LP staking, users must set up a liquidity pair of ZCRAI and SOL. The staking yields are distributed in ZCRAI tokens.
 
-> **Link to the ZCRAI pool:** [https://beta.raydium.io/liquidity-pools/?tab=standard\&show\_farms=false\&sort\_by=apr\&token=DpCzuUVptrvEquumfomwJQjWrgQXXDN9Ar217oGxcohe\&layout=grid](https://beta.raydium.io/liquidity-pools/?tab=standard\&show\_farms=false\&sort\_by=apr\&token=DpCzuUVptrvEquumfomwJQjWrgQXXDN9Ar217oGxcohe\&layout=grid)
+> **Link to the ZCRAI Staking Pool:**
+>
+> [https://beta.raydium.io/liquidity/increase/?mode=stake\&pool\_id=hzsQaPV2TxTsGzfqSRu9rqfVWUpZrvaa5uvYTzXKYuk](https://beta.raydium.io/liquidity/increase/?mode=stake\&pool\_id=hzsQaPV2TxTsGzfqSRu9rqfVWUpZrvaa5uvYTzXKYuk)
 
 #### How to Set Up ZCRAI/SOL LP
 
