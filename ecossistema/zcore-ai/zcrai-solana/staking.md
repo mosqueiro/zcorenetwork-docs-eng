@@ -1,6 +1,6 @@
 # 🔐 Staking
 
-<figure><img src="../../../.gitbook/assets/Captura de Tela 2024-05-07 às 12.37.59.png" alt=""><figcaption><p><a href="https://beta.raydium.io/portfolio/">https://beta.raydium.io/portfolio/</a></p></figcaption></figure>
+{% embed url="https://youtu.be/DlYHTW4CJvM" %}
 
 ### Introduction to Staking 🌱
 
