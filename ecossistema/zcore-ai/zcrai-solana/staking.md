@@ -37,7 +37,10 @@ To monitor your deposits and earnings, visit:
 
 ### Buy ZCRAI Without Spread 💡
 
-To ensure the best rate when buying ZCRAI, use the ZCRAI Solana Telegram bot. Avoid unnecessary spreads and maximize your investments.
+To ensure the best rate when purchasing ZCRAI, use the ZCRAI Solana Telegram bot or our exclusive dApp. Avoid unnecessary spreads and maximize your investments.
+
+* **Telegram Bot** : [https://t.me/ZCRAISolBot](https://t.me/ZCRAISolBot)
+* **dApp** : [https://sol.zcore.ai/](https://sol.zcore.ai/)
 
 ### Conclusion 🚀
 
