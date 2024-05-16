@@ -27,6 +27,10 @@ This collection on the Solana network is an example of how creativity and innova
 [tokenomics.md](tokenomics.md)
 {% endcontent-ref %}
 
+{% content-ref url="../../../ecosystem/zcore-ai/zcrai-solana/coin-locked.md" %}
+[coin-locked.md](../../../ecosystem/zcore-ai/zcrai-solana/coin-locked.md)
+{% endcontent-ref %}
+
 {% content-ref url="como-comprar.md" %}
 [como-comprar.md](como-comprar.md)
 {% endcontent-ref %}
@@ -50,3 +54,4 @@ This collection on the Solana network is an example of how creativity and innova
 {% content-ref url="links-uteis.md" %}
 [links-uteis.md](links-uteis.md)
 {% endcontent-ref %}
+
