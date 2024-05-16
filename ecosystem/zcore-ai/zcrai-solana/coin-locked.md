@@ -37,9 +37,7 @@ To ensure the security of holders, all ZCRAI tokens are locked in smart contract
 **🎁 ZCRAI BSC Airdrop**
 
 * **Total Tokens:** 100 million
-* **Release Period:** May 2024 (1 month)
-* **Total Release:** 100 million tokens
-* **Purpose:** Airdrop according to the roadmap progress
+* **Release:** Airdrop according to the roadmap progress
 * **Contract:** [3rBQ4CdpW5mLBvg67psDud89sGYnLYRHAjkvB9aWYw38](https://vesting.bonfida.org/3rBQ4CdpW5mLBvg67psDud89sGYnLYRHAjkvB9aWYw38)
 
 **📣 Marketing Campaigns, CEX Listings, Airdrops**
