@@ -1,5 +1,9 @@
 # 📊 Tokenomics
 
+<figure><img src="../../../.gitbook/assets/Brown Modern Circle Chart Graph (Post para Twitter).png" alt=""><figcaption></figcaption></figure>
+
+Blockchain: **Solana**
+
 Name: **ZCore AI**
 
 Symbol: **ZCRAI**
