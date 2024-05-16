@@ -41,3 +41,7 @@
 * [Website](https://zcore.network/)
 * [Twitter](https://twitter.com/zcorecrypto)
 * [Telegram](https://t.me/zcoreminers)
+
+## LANGUAGE
+
+* [🇧🇷 Portugues](https://docs-pt.zcore.network/)
