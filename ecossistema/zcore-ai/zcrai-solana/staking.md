@@ -12,11 +12,11 @@ To participate in LP staking, users must set up a liquidity pair of ZCRAI and SO
 
 > **Link to the ZCRAI Staking Pool:**
 >
-> [https://beta.raydium.io/liquidity/increase/?mode=stake\&pool\_id=hzsQaPV2TxTsGzfqSRu9rqfVWUpZrvaa5uvYTzXKYuk](https://beta.raydium.io/liquidity/increase/?mode=stake\&pool\_id=hzsQaPV2TxTsGzfqSRu9rqfVWUpZrvaa5uvYTzXKYuk)
+> [https://raydium.io/liquidity/increase/?mode=stake\&pool\_id=hzsQaPV2TxTsGzfqSRu9rqfVWUpZrvaa5uvYTzXKYuk](https://raydium.io/liquidity/increase/?mode=stake\&pool\_id=hzsQaPV2TxTsGzfqSRu9rqfVWUpZrvaa5uvYTzXKYuk)
 
 #### How to Set Up ZCRAI/SOL LP
 
-1. Access Raydium, the main decentralized exchange of the Solana network, using the following link to add liquidity to the ZCRAI/SOL pair: [https://beta.raydium.io/liquidity/increase/?mode=add\&pool\_id=hzsQaPV2TxTsGzfqSRu9rqfVWUpZrvaa5uvYTzXKYuk](https://beta.raydium.io/liquidity/increase/?mode=add\&pool\_id=hzsQaPV2TxTsGzfqSRu9rqfVWUpZrvaa5uvYTzXKYuk)
+1. Access Raydium, the main decentralized exchange of the Solana network, using the following link to add liquidity to the ZCRAI/SOL pair: [https://raydium.io/liquidity/increase/?mode=add\&pool\_id=hzsQaPV2TxTsGzfqSRu9rqfVWUpZrvaa5uvYTzXKYuk](https://raydium.io/liquidity/increase/?mode=add\&pool\_id=hzsQaPV2TxTsGzfqSRu9rqfVWUpZrvaa5uvYTzXKYuk)
 2. Follow the instructions to add liquidity to the ZCRAI and SOL pool, without worrying about ranges; the standard LP type is straightforward, you just create the LP and deposit it in the staking pool.
 3. After adding liquidity, you will receive LP tokens that symbolize your share in the pool.
 
@@ -24,7 +24,7 @@ To participate in LP staking, users must set up a liquidity pair of ZCRAI and SO
 
 To monitor your deposits and earnings, visit:
 
-* [https://beta.raydium.io/portfolio/?position\_tab=standard](https://beta.raydium.io/portfolio/?position\_tab=standard)
+* [https://raydium.io/portfolio/?position\_tab=standard](https://raydium.io/portfolio/?position\_tab=standard)
 * In the "My Positions" tab, select **STANDARD** to view your liquidity pools.
 * Check the details of your stakings and accumulated earnings.
 
