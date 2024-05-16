@@ -12,6 +12,10 @@ Purchasing ZCRAI on the Solana network is facilitated by both our Telegram bot a
 * **dApp Link:** [https://sol.zcore.ai](https://sol.zcore.ai)
 * Connect your Solana wallet to the dApp to make a direct and efficient ZCRAI purchase.
 
+### **Through Jupiter (Dex)** 🌐
+
+* **dApp Link:** [https://jup.ag/swap/SOL-DpCzuUVptrvEquumfomwJQjWrgQXXDN9Ar217oGxcohe](https://jup.ag/swap/SOL-DpCzuUVptrvEquumfomwJQjWrgQXXDN9Ar217oGxcohe)
+
 ### Direct Purchase Without Spread 🚫💸
 
 * **No Spread:** Through the bot and the dApp, acquire ZCRAI at a fixed price, without the additional costs related to exchange spreads.
