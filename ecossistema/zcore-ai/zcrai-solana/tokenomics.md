@@ -8,7 +8,15 @@ Max Supply: **1,000,000,000**
 
 Contract: `DpCzuUVptrvEquumfomwJQjWrgQXXDN9Ar217oGxcohe`
 
-Details: :globe_with_meridians: [**SolScan**](https://solscan.io/token/DpCzuUVptrvEquumfomwJQjWrgQXXDN9Ar217oGxcohe)
+Details: :globe\_with\_meridians: [**SolScan**](https://solscan.io/token/DpCzuUVptrvEquumfomwJQjWrgQXXDN9Ar217oGxcohe)
+
+
+
+### 🔒 Token Release Schedule on the Solana Network :
+
+{% content-ref url="../../../ecosystem/zcore-ai/zcrai-solana/coin-locked.md" %}
+[coin-locked.md](../../../ecosystem/zcore-ai/zcrai-solana/coin-locked.md)
+{% endcontent-ref %}
 
 ### Token Details 💾
 
