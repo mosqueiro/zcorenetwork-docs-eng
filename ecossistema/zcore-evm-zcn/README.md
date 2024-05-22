@@ -4,7 +4,7 @@
 
 **Introduction to the ZCN EVM Network of ZCore Network**
 
-We are excited to introduce the ZCN EVM Network of ZCore Network, a significant advancement in our blockchain infrastructure, scheduled to launch in February 2024. This network represents a milestone in the evolution of ZCore, strengthening our position in the cryptocurrency ecosystem.
+We are excited to introduce the ZCN EVM Network of ZCore Network, a significant advancement in our blockchain infrastructure. This network represents a milestone in the evolution of ZCore, strengthening our position in the cryptocurrency ecosystem.
 
 **Development and Testing of the Network**
 
@@ -30,6 +30,6 @@ The ZCN Network will also be integrated with the ZCore Wallet app. This integrat
 
 The ZCN EVM Network from ZCore Network is a significant step forward in our mission to offer a robust, flexible, and user-friendly blockchain platform. With its integration with ZCR, compatibility with other leading networks, and ease of use through the ZCore Wallet, the ZCN Network is set to be an innovative force in the cryptocurrency universe. We invite our community to actively participate in this exciting journey towards the future of blockchain technology.
 
-> :globe_with_meridians: ZCN Testnet :
+> :globe\_with\_meridians: ZCN Testnet :
 >
 > [https://testnet.zcore.network/](https://testnet.zcore.network/)
