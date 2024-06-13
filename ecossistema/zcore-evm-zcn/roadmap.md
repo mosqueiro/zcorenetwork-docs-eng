@@ -7,9 +7,9 @@ ZCore Network moves forward with determination to bring significant innovations 
 * **May 6, 2024:** Launch of the new documentation, updating users with complete information about ZCore's products and services.
 * **May 21, 2024:** Premiere of the new ZCore website and start of an airdrop campaign to attract new members and projects to the ZCN network.
 * **May 23, 2024:** Completion of the development of the new bridge, a crucial step for interoperability between different blockchains.
-* **May 24 to 31, 2024:** Period of extensive testing on the bridge within the ZCN network to ensure the robustness and reliability of the system.
-* **June 14, 2024:** The official launch of the ZCN network, a defining moment that highlights the growth and innovation of the ZCore Network.
-* **June 14 to 30, 2024:** Phase of active monitoring and uninterrupted support to users and validators who are migrating their ZCR to ZCN.
+* **May 24 to June 31, 2024:** Period of extensive testing on the bridge within the ZCN network to ensure the robustness and reliability of the system.
+* **July 14, 2024:** The official launch of the ZCN network, a defining moment that highlights the growth and innovation of the ZCore Network.
+* **July 14 to 30, 2024:** Phase of active monitoring and uninterrupted support to users and validators who are migrating their ZCR to ZCN.
 
 ### Q2 2024
 
